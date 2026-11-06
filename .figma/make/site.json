@@ -1,0 +1,10 @@
+{
+  "description": "A primary school parent portal for navigating student learning activity and accessing key information about a child’s education.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
